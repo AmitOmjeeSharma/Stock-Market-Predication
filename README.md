@@ -20,7 +20,8 @@ This project leverages machine learning and natural language processing to predi
 - **Feature-Rich Model:** Utilized multiple technical indicators to capture market trends and patterns.
 
 ## Additional Resources
-- **YouTube Presentation:** Link to YouTube Presentation
-- **LinkedIn Post:** Link to LinkedIn Post
+- **YouTube Presentation:** [YouTube](https://youtu.be/xiTkm9AzTHg)
+- **LinkedIn Post:** [LinkedIn](https://www.linkedin.com/posts/amit-omjee-sharma_task7-gripmay24-grip-activity-7198742715742740480-ZxGJ?utm_source=share&utm_medium=member_desktop)
+
 
 
