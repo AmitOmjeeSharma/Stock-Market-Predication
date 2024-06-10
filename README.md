@@ -19,4 +19,8 @@ This project leverages machine learning and natural language processing to predi
 - **Comprehensive Sentiment Analysis:** Incorporated sentiment scores (positive, neutral, negative) from news headlines to improve prediction accuracy.
 - **Feature-Rich Model:** Utilized multiple technical indicators to capture market trends and patterns.
 
+## Additional Resources
+- **YouTube Presentation:** Link to YouTube Presentation
+- **LinkedIn Post:** Link to LinkedIn Post
+
 
