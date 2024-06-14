@@ -11,7 +11,7 @@ This project leverages machine learning and natural language processing to predi
 - **Technical Indicators:** Indicators like SMA, EMA, MACD, RSI, and OBV are calculated to enhance predictive power.
 - **Machine Learning Model:** A Random Forest Regressor is implemented using a rolling window approach.
 - **Visualization & Evaluation:** Actual vs. predicted prices are visualized, and metrics like MAE, RMSE, and R-squared are used for evaluation.
-- **Future Predictions:** The model is saved as a pickle file for easy and efficient future predictions.
+
 
 ## Achievements
 
